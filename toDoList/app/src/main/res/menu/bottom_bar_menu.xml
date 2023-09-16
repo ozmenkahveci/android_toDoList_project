@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/listFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_list"
+        android:title="@string/bottom_menuListFragment" />
+    <item
+        android:id="@+id/shareFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_share"
+        android:title="@string/bottom_menuShareFragment" />
+    <item
+        android:id="@+id/surpriseFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/baseline_surprise"
+        android:title="@string/bottom_menuSurpriseFragment" />
+</menu>

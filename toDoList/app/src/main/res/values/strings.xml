@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">toDoList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="button_text">Yapılacak Listesi Oluştur</string>
+    <string name="todoTitle" translatable="false">To Do</string>
+    <string name="listTitle" translatable="false">List</string>
+    <string name="alert_todoListET">Ne Yapacaksın?</string>
+    <string name="alert_todoDateET">Ne Zaman Yapacaksın?</string>
+    <string name="fragment_share">Ortak</string>
+    <string name="fragment_surprise">Sürpriz</string>
+    <string name="bottom_menuListFragment">Liste</string>
+    <string name="bottom_menuShareFragment">Ortak</string>
+    <string name="bottom_menuSurpriseFragment">Sürpriz</string>
+    <string name="popup_menuActionDelete">Sil</string>
+    <string name="popup_menuActionUpdate">Güncelle</string>
+    <string name="main_menuActionSettings">Ayarlar</string>
+
+    <string name="languageTurkey">Türkçe</string>
+    <string name="languageEnglish">English</string>
+    <string name="languageSelected">Dil Seçiniz</string>
+    <string name="settings">Ayarlar</string>
+
+    <string name="action_silQuestion">Silinsin mi?</string>
+    <string name="evet">Evet</string>
+
+    <string name="action_guncelleQuestion">To Do List Güncelle</string>
+    <string name="action_guncelle">Güncelle</string>
+    <string name="action_guncellemeBitti">Güncellendi</string>
+    <string name="action_iptalQuestion">İptal</string>
+
+    <string name="action_ekleQuestion">Yapılacak Aktiviteyi Ekle</string>
+    <string name="action_ekle">Ekle</string>
+    <string name="action_eklendi">Eklendi</string>
+    <string name="theme_selected">Tema Seçiniz</string>
+    <string name="theme_light">Açık</string>
+    <string name="theme_dark">Koyu</string>
+
+</resources>

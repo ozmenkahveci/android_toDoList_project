@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">toDoList</string>
+    <string name="button_text">Create to do List</string>
+    <string name="alert_todoListET">What will you do?</string>
+    <string name="alert_todoDateET">When will you do?</string>
+    <string name="fragment_share">Share</string>
+    <string name="fragment_surprise">Surprise</string>
+    <string name="bottom_menuListFragment">List</string>
+    <string name="bottom_menuShareFragment">Share</string>
+    <string name="bottom_menuSurpriseFragment">Surprise</string>
+    <string name="popup_menuActionDelete">Delete</string>
+    <string name="popup_menuActionUpdate">Update</string>
+    <string name="main_menuActionSettings">Settings</string>
+
+    <string name="languageTurkey">Türkçe</string>
+    <string name="languageEnglish">English</string>
+    <string name="languageSelected">Select Language</string>
+    <string name="settings">Settings</string>
+
+    <string name="action_silQuestion">Should you delete?</string>
+    <string name="evet">Yes</string>
+
+    <string name="action_guncelleQuestion">To Do List Update</string>
+    <string name="action_guncelle">Update</string>
+    <string name="action_guncellemeBitti">Updated</string>
+    <string name="action_iptalQuestion">Cancel</string>
+
+    <string name="action_ekleQuestion">To Do List Add</string>
+    <string name="action_ekle">Add</string>
+    <string name="action_eklendi">Added</string>
+
+    <string name="theme_selected">Select Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+</resources>
